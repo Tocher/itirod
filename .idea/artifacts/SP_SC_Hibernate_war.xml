@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SP_SC_Hibernate:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SP_SC_Hibernate.war">
+      <element id="artifact" artifact-name="SP_SC_Hibernate:war exploded" />
+    </root>
+  </artifact>
+</component>

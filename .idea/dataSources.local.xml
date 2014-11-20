@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - spring_social_db@localhost" uuid="0f595e39-851f-40ab-893b-67a53a44cce6">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>spring_social_db.*</schema-pattern>
+      <default-schemas>spring_social_db.*</default-schemas>
+    </data-source>
+  </component>
+</project>
